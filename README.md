@@ -8,4 +8,4 @@ If you are using AMD GPU, with an Intel CPU, this script should work for you out
 
 Script must be run with sudo.
 
-Disclaimer: Use the script at your own risk.
+Disclaimer: Use the script at your own risk, author not responsible for any damage to your device.
