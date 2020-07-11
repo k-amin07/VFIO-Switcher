@@ -7,3 +7,5 @@ Refer to my [GUIDE](https://gist.github.com/k-amin07/47cb06e4598e0c81f2b42904c69
 If you are using AMD GPU, with an Intel CPU, this script should work for you out of the box, just replace the BusID with your own. If your hardware is different, this script can still be used as a reference to write your own.
 
 Script must be run with sudo.
+
+Disclaimer: Use the script at your own risk.
